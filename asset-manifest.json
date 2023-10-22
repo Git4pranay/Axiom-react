@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Axiom-react/static/css/main.db798329.css",
+    "main.js": "/Axiom-react/static/js/main.c831888d.js",
+    "static/js/787.5f8b4b68.chunk.js": "/Axiom-react/static/js/787.5f8b4b68.chunk.js",
+    "index.html": "/Axiom-react/index.html",
+    "main.db798329.css.map": "/Axiom-react/static/css/main.db798329.css.map",
+    "main.c831888d.js.map": "/Axiom-react/static/js/main.c831888d.js.map",
+    "787.5f8b4b68.chunk.js.map": "/Axiom-react/static/js/787.5f8b4b68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.c831888d.js"
+  ]
+}
